@@ -1,0 +1,11 @@
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.deps.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.runtimeconfig.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.pdb
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.dll
+C:\Users\haile\OneDrive\Documents\School\CSharp\Fundamentals\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.pdb
